@@ -3,7 +3,7 @@
 
 ---
 
-## 👋 Hello! I'm Defne Nil.
+##  Hello! I'm Defne Nil.
 
 Welcome to my **HR Performance Analytics** project.
 
@@ -13,7 +13,7 @@ My goal was to simulate a real-world enterprise software environment, focusing o
 
 ---
 
-## 💡 What Does This System Do?
+##  What Does This System Do?
 
 This is a desktop application that helps HR managers track employee performance. Instead of drowning in Excel sheets, it provides a modern dashboard to:
 
@@ -24,7 +24,7 @@ This is a desktop application that helps HR managers track employee performance.
 
 ---
 
-## 🛠️ The Tech Stack (Under the Hood)
+##  The Tech Stack (Under the Hood)
 
 I chose **Python** for its power in data science and flexibility in GUI development.
 
@@ -35,7 +35,7 @@ I chose **Python** for its power in data science and flexibility in GUI developm
 
 ---
 
-## 🚀 How to Run It
+##  How to Run It
 
 If you want to test the **v9.3** architecture on your machine:
 
@@ -79,7 +79,7 @@ I utilized Generative AI tools as a **"Co-Pilot"** during development to:
 
 ---
 
-### ✍️ Author
+###  Author
 **Defne Nil**
 *Computer Engineering Student*
 *System Architecture: D.N.A.*
