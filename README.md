@@ -57,7 +57,7 @@ If you want to test the **v9.3** architecture on your machine:
 
 ---
 
-## 🤖 A Note on AI & Academic Honesty
+##  A Note on AI & Academic Honesty
 
 **Transparency is part of engineering ethics.**
 This project was architected and directed by me, **Defne Nil**.
